@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='euro_2024_tournament-data',
+    name='Euro_2024_tournament-data',
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
